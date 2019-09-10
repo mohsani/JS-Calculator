@@ -4,7 +4,6 @@
     box-sizing: border-box;
     font-family: 'Oxygen', sans-serif;
     font-weight: normal;
-    box-shadow: 6px 6px 15px 0px rgba(50, 50, 50, 0.75);
 }
 
 body {
@@ -19,8 +18,8 @@ body {
     justify-content: center;
     align-content: center;
     min-height: 100vh;
-    grid-template-columns: repeat(4, 90px);
-    grid-template-rows: minmax(100px, auto) repeat(5, 90px);
+    grid-template-columns: repeat(4, 95px);
+    grid-template-rows: minmax(110px, auto) repeat(5, 95px);
 }
 
 .calculator-grid>button {
