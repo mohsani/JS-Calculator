@@ -28,7 +28,8 @@ body {
     border-block-start-color: rgba(255, 255, 0, 0.712);
     outline: none;
     color: rgb(255, 255, 255);
-    background-color: #313131
+    background-color: #313131;
+    transition: color 0.6s ease-in-out;
 }
 
 .calculator-grid>button:hover {
