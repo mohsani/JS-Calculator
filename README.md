@@ -1,2 +1,2 @@
 # JS-Calculator
-Javascript Calculator
+Cool Javascript Calculator
